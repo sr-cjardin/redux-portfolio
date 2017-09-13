@@ -1,0 +1,16 @@
+{
+  "name": "redux-refactored-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio using React, redux and react-router",
+  "main": "index.js",
+  "author": "Casey Jardin",
+  "license": "MIT",
+  "homepage": "https://www.caseyjardin.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alpha1337/redux-portfolio.git"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
